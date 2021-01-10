@@ -1,0 +1,13 @@
+.app-list {
+    margin-top: 50px;
+    list-style-type: none;
+    padding-left: 0;
+    
+}
+.app-list .list-group-item {
+  padding: 20px 35px 10px 35px;
+  margin-top: 10px;
+  background-color: #CCE6E8;
+  border-radius: 5px;
+  border-style: none;
+}

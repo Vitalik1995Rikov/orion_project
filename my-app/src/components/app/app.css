@@ -1,0 +1,10 @@
+.app {
+    margin: 0 auto;
+    max-width: 800px;
+    
+  }
+
+.d-flex {
+  display: flex;
+}
+  
