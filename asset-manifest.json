@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/orion_project/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/orion_project/static/js/main.c1152947.chunk.js",
-    "main.js.map": "/orion_project/static/js/main.c1152947.chunk.js.map",
+    "main.css": "/orion_project/static/css/main.46798880.chunk.css",
+    "main.js": "/orion_project/static/js/main.7d630392.chunk.js",
+    "main.js.map": "/orion_project/static/js/main.7d630392.chunk.js.map",
     "runtime-main.js": "/orion_project/static/js/runtime-main.8568c227.js",
     "runtime-main.js.map": "/orion_project/static/js/runtime-main.8568c227.js.map",
-    "static/js/2.7599c84a.chunk.js": "/orion_project/static/js/2.7599c84a.chunk.js",
-    "static/js/2.7599c84a.chunk.js.map": "/orion_project/static/js/2.7599c84a.chunk.js.map",
+    "static/js/2.05a8e875.chunk.js": "/orion_project/static/js/2.05a8e875.chunk.js",
+    "static/js/2.05a8e875.chunk.js.map": "/orion_project/static/js/2.05a8e875.chunk.js.map",
     "index.html": "/orion_project/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/orion_project/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/orion_project/static/js/2.7599c84a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/orion_project/static/media/logo.6ce24c58.svg"
+    "static/css/main.46798880.chunk.css.map": "/orion_project/static/css/main.46798880.chunk.css.map",
+    "static/js/2.05a8e875.chunk.js.LICENSE.txt": "/orion_project/static/js/2.05a8e875.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8568c227.js",
-    "static/js/2.7599c84a.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.c1152947.chunk.js"
+    "static/js/2.05a8e875.chunk.js",
+    "static/css/main.46798880.chunk.css",
+    "static/js/main.7d630392.chunk.js"
   ]
 }
