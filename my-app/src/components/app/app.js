@@ -12,9 +12,9 @@ export default class App extends Component {
         super(props);
         this.state = {
             data : [
-                {label: 'Отпраздновать НГ', important: false, like: false, id: 1},
-                {label: 'Подтянуть знания по react-у', important: true, like: false, id: 2},
-                {label: 'Доделать проект', important: false, like: false, id: 3}
+                {label: 'Celebrate New Year', important: false, like: false, id: 1},
+                {label: 'Learn React', important: true, like: false, id: 2},
+                {label: 'Finish my project', important: false, like: false, id: 3}
             ],
             term: '',
             filter: 'all'
